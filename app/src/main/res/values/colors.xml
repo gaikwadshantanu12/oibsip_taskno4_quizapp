@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ultramarine_blue">	#414aef</color>
+    <color name="light_green">#7bf18a</color>
+    <color name="blue_sapphire">#18717c</color>
+    <color name="russian_green">#659e62</color>
+    <color name="khaki">#cba79a</color>
+    <color name="deep_moss_green">#355846</color>
+    <color name="red">#E42626</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
